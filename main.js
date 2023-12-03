@@ -1,3 +1,4 @@
+/*version v2*/
 function updateBin(data,binId,key) {
   let req = new XMLHttpRequest();
   req.onreadystatechange = () => {
